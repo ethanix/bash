@@ -1,0 +1,18 @@
+alias b='cd ~/.config/bash'
+alias h="cd ~/Website/homepage"
+alias word="cd ~/Website/homepage/main/language/english/word"
+
+alias cl='clear'
+alias cp="cp -iv"        # confirm before overwriting
+alias d='du -h -d1'
+alias e='exit'
+alias free='free -m'
+alias l='ls -lA'         # list files(except .. and .) in long foramt
+alias la='cd ..'         # last directory
+
+alias sb='source ~/.bashrc'
+alias sx='source ~/.xprofile'
+
+alias vima='vim ~/.config/bash/bashrc/.alias'
+alias vimb='vim ~/.bashrc'
+alias vimr='vim ~/.vim/vimrc'
