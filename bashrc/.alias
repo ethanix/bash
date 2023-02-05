@@ -1,4 +1,5 @@
 alias b='cd ~/.config/bash'
+alias .v="cd ~/.vim"
 alias h="cd ~/Website/homepage"
 alias word="cd ~/Website/homepage/main/language/english/word"
 
