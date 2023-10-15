@@ -1,0 +1,28 @@
+alias cp="cp -iv"        # confirm before overwriting
+alias d='du -h -d1'
+alias free='free -m'
+
+alias l='ls -lA'    # show files in long foramt
+alias la='cd ..'    # last fold
+alias e='exit'
+alias cl='clear'
+
+alias b='cd $BASH_DIR'
+alias .v="cd ~/.vim"
+alias n="cd ~/.config/nvim"
+alias h="cd ~/homepage"
+alias word="cd ~/homepage/main/language/english/word"
+
+alias sb='source ~/.bashrc'
+alias sx='source ~/.xprofile'
+
+alias vin="nvim"
+alias vinb='nvim ~/.bashrc'
+alias vina='nvim $BASH_DIR/bashrc/.alias'
+alias vinr='nvim ~/.vim/vimrc'
+alias vinn="nvim ~/.config/nvim/init.vim"
+
+alias 'tipgit'='cat $BASH_DIR/alias/tip_git.txt'
+alias 'tippdftk'='cat $BASH_DIR/alias/tip_pdftk.txt'
+alias 'tipconvert'='cat $BASH_DIR/alias/tip_convert.txt'
+alias 'tipchromium'='cat $BASH_DIR/alias/tip_chromium.txt'
